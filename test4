@@ -13,7 +13,7 @@
 	</head>
 	<body>
 		<form method="post">
-			<h1>LOGIN PHP 8.1</h1>
+			<h1>LOGIN</h1>
 			<label>Nombres:</label>
 			<input type="text" name="nombres" placeholder="Ingresa tu nombre"><br>
 			<label>Apellidos:</label>
