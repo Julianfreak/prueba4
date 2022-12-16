@@ -12,6 +12,9 @@
 		<script src='main.js'></script>
 	</head>
 	<body>
+		<?php 
+			echo "estamos realizando pruebas"
+		?>
 		<form method="post">
 			<h1>LOGIN</h1>
 			<label>Nombres:</label>
